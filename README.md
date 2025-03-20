@@ -1,6 +1,9 @@
 ## Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{Rapachu}/count.svg)
-
+## Visitors: ![Visitor Count](https://profile-counter.glitch.me/{Rapachu}/count.svg):eyes:  
+💻 Mostly coding in JavaScript  
+🥈 A strong second is C#  
+:video_game: Experienced in [GDevelop](https://gdevelop.io/)  
+![gif](https://tenor.com/fi/view/coding-gif-18657810.gif)
 <!--
 **Rapachu/Rapachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
